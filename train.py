@@ -42,19 +42,16 @@ if os.path.exists(weights_dir) == False :
 input_shape = (0, 0, 3)
 
 #epoches
-num_epoches = 100
+num_epoches = 0
 
 #batchsize
-num_batchsizes = 4
+num_batchsizes = 0
 
 #number of train samples
 num_of_train_samples = 0
 
 #number of validation samples
 num_of_validation_samples = 0
-
-#number of optins that apply data augmen
-num_option_data_aug = 2
 
 #number of steps per epoch
 num_steps_per_epoch = int(num_of_train_samples / num_batchsizes)
