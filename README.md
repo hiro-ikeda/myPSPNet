@@ -1,3 +1,4 @@
 # myPSPNet
-this is prototype for PSPNet  \n
-this model is implemented using Keras-Tensorflow
+this is prototype for PSPNet.
+
+this model is implemented using Keras-Tensorflow.
